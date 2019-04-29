@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<script src="./js/roadMapDraw.js"></script>
+	<script src="./js/breakTree.js"></script>
+	<!-- For Treant.js -->
+	<script src="http://fperucic.github.io/treant-js/vendor/raphael.js"></script>
+    <script src="http://fperucic.github.io/treant-js/Treant.js"></script>
+	<link rel="stylesheet" href="http://fperucic.github.io/treant-js/Treant.css"></script>
+
+	<style media="screen">
+		.mkhyoData {
+			width: 30%;
+			background: #fff;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px #ccc;
+		}
+		.card {
+			margin: 1px 3px 3px 3px;
+			width: 99%;
+			background: #fff;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px #ccc;
+		}
+		.card_opt {
+			top:auto;
+			margin: 1px;
+			width: 99%;
+			background: #fff;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px #ccc;
+			float: left;
+		}
+		.card-img {
+			display: block;
+			border-radius: 5px 5px 0 0;
+			max-width: 100%;
+			padding: 2px;
+			margin: auto;
+			text-align: center;
+		}
+		.card-left {
+			padding: 10px;
+		}
+		.card-content {
+			padding: 10px;
+		}
+		.card-title {
+			font-size: 20px;
+			margin-bottom: 20px;
+			text-align: center;
+			color: #333;
+		}
+		.card-text {
+			color: #777;
+			font-size: 14px;
+			line-height: 1.5;
+		}
+		.card-link {
+			text-align: center;
+			border-top: 1px solid #eee;
+			padding: 20px;
+		}
+		.card-link a {
+			text-decoration: none;
+			color: #0bd;
+			margin: 0 10px;
+		}
+		.card-link a:hover {
+			color: #0090aa;
+		}
+	</style>
+	<style>
+		body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+			 margin:0; padding:0;
+		}
+		body {
+			background: #fff;
+		}
+
+		/* optional Container STYLES */
+		.chart { height: 900px; width: 900px; margin: 55px; margin: 55px auto; border: 3px solid #DDD; border-radius: 3px;}
+		.node { color: #9CB5ED; border: 2px solid #C8C8C8; border-radius: 3px; overflow: hidden;}
+		.node p { font-size: 15px; line-height: 20px; height: 20px; font-weight: bold; padding: 3px; margin: 0; }
+	</style>
+</head>
+<body onload="createDefaultTree()">
+	<!-- 目標ブレークツリーの作成 -->
+	<div class="mkhyoData">
+		<div class="card_opt">
+			ヘッダー部分のカード
+		</div>
+		<section class="card">
+			<div class="card-content">
+				<div class="card-title">カードタイトル</div>
+				<p class="card-text">WebデザインやWebサイト制作、最新のWeb業界情報などを紹介していくサイト。</p>
+				<div class="card-link">
+					<a href="">About</a>
+					<a href="">Website</a>
+				</div>
+			</div>
+		</section>
+		<div id="Ob0" hidden value="じゃんけんゲームリリース">
+			<div id="Ob1" hidden value="アプリの作成">
+				<div id="Ob4" hidden value="環境構築"></div>
+				<div id="Ob5" hidden value="JavaFX学習"></div>
+				<div id="Ob6" hidden value="設計書の作成"></div>
+			</div>
+			<div id="Ob2" hidden value="Google play storeへのリリース">
+				<div id="Ob7" hidden value="GLUONフリーライセンスの取得"></div>
+				<div id="Ob8" hidden value="プロジェクトサイトの作成"></div>
+				<div id="Ob9" hidden value="目標達成プロジェクト(Git)の作成"></div>
+			</div>
+			<div id="Ob3" hidden value="ドキュメント作成">
+				<div id="Ob10" hidden value="JavaFX入門ドキュメント"></div>
+				<div id="Ob11" hidden value="Google play storeへのリリース方法の確認"></div>
+				<div id="Ob12" hidden value="プロジェクトサイト(Git)の作り方"></div>
+			</div>
+		</div>
+
+	</div>
+	<div id="breakTree" style="height: 760px; width: 1500px"></div>
+
+</body>
+
+</html>
