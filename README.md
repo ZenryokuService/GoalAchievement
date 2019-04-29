@@ -45,26 +45,26 @@ Within that, we will create a flow for achieving our goals.<br>
 </dd>
 </dl>
 
-＜サンプル＞
-<dl><dt>Lv0: 「じゃんけんゲーム」を作成してリリースする。</dt>
+＜Example＞
+<dl><dt>Lv0: Create "Janken game" and release it.</dt>
 <dd><ul>
 <li>
-<dl><dt>Lv1: じゃんけんゲームVer1.0を作成する</dt>
-<dd>Lv2: GLUON+Eclipseの開発環境を構築する</dd>
-<dd>Lv2: 開発環境(PC)上でじゃんけんゲームを作成する</dd>
-<dd>Lv2: JavaFXの基本的な扱い方を理解する</dd>
+<dl><dt>Lv1: Create a rockfish game Ver 1.0</dt>
+<dd>Lv2: Build GLUON + Eclipse Development Environment</dd>
+<dd>Lv2: Create a rock-paper-scissors game on a development environment (PC)</dd>
+<dd>Lv2: Understand the basic handling of JavaFX</dd>
 </dl>
 </li>
 <li>
-<dl><dt>Lv1: GLUONのフリーライセンスを取得する</dt>
-<dd>Lv2: <a href="https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/">2-1. GLUONのライセンスの説明サイト</a>を参照する</dd>
-<dd>Lv2: プロジェクトサイトを作成する</dd>
-<dd>Lv2: SNSとの連携機能を実装する</dd>
+<dl><dt>Lv1: Get a free GLUON license</dt>
+<dd>Lv2: read <a href="https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/">2-1. GLUONのライセンスの説明サイト</a></dd>
+<dd>Lv2: Create a project site</dd>
+<dd>Lv2: Implement the cooperation function with SNS</dd>
 </li>
-<dl><dt>Lv1: Goole app storeへAppの申請をする</dt>
-<dd>Lv2: Google app storeの規約を読む</dd>
-<dd>Lv2: 規約を考慮に入れてアプリの総合テストを行う</dd>
-<dd>Lv2: なし</dd>
+<dl><dt>Lv1: Apply for Goole app store App</dt>
+<dd>Lv2: Read the terms of the Google app store</dd>
+<dd>Lv2: Conduct a comprehensive test of the application taking into account the terms</dd>
+<dd>Lv2: nothing ...</dd>
 </li>
 </ul></dd>
 </dd>
