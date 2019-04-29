@@ -52,27 +52,25 @@ Within that, we will create a flow for achieving our goals.
 </dl>
 
 ＜サンプル＞
-<dl><dt>「じゃんけんゲーム」を作成してリリースする。</dt>
+<dl><dt>Lv0: 「じゃんけんゲーム」を作成してリリースする。</dt>
 <dd><ul>
 <li>
-<dl><dt>じゃんけんゲームVer1.0を作成する</dt>
-<dd> 開発環境(PC)上でじゃんけんゲームを作成する</dd>
-<dd>1-1. 開発環境構築(Eclipse+Gluon)</dd>
-<dd>1-2. JavaFXの基本的な扱い方を理解する</dd>
-<dd>1-3. アプリケーションの作成</dd>
-<dd>1-4. テストを行う</dd>
+<dl><dt>Lv1: じゃんけんゲームVer1.0を作成する</dt>
+<dd>Lv2: GLUON+Eclipseの開発環境を構築する</dd>
+<dd>Lv2: 開発環境(PC)上でじゃんけんゲームを作成する</dd>
+<dd>Lv2: JavaFXの基本的な扱い方を理解する</dd>
 </dl>
 </li>
 <li>
-<dl><dt>GLUONのフリーライセンスを取得する</dt>
-<dd><a href="https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/">2-1. GLUONのライセンスの説明サイト</a>を参照する</dd>
-<dd>2-2. キーポイントにある内容を網羅する</dd>
-<dd>2-3. プロジェクトサイトを作成する</dd>
-<dd>2-4. Twitterへの連携機能を作成する</dd>
+<dl><dt>Lv1: GLUONのフリーライセンスを取得する</dt>
+<dd>Lv2: <a href="https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/">2-1. GLUONのライセンスの説明サイト</a>を参照する</dd>
+<dd>Lv2: プロジェクトサイトを作成する</dd>
+<dd>Lv2: SNSとの連携機能を実装する</dd>
 </li>
-<li>Google app storeへリリース
-<dl><dt>Lv1: Goole app storeの規約を読む</dt>
-<dd>Lv2: Google app storeへの申請</dd>
+<dl><dt>Lv1: Goole app storeへAppの申請をする</dt>
+<dd>Lv2: Google app storeの規約を読む</dd>
+<dd>Lv2: 規約を考慮に入れてアプリの総合テストを行う</dd>
+<dd>Lv2: なし</dd>
 </li>
 </ul></dd>
 </dd>
