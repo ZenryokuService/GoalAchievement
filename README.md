@@ -76,7 +76,7 @@ Within that, we will create a flow for achieving our goals.<br>
 <dd>
 目標達成プロジェクトは目標を達成するためのフローを作り上げるためのプロジェクトです。<br>
 じゃんけんゲームから初めてだんだんと大きなものを作成していくことを目的としています。<br>
-
+ちなみに、目標カテゴリに関しては<a href="https://github.com/ZenryokuService/GoalAchievement/wiki/Categories-of-goal-achievement-break-tree.(%E7%9B%AE%E6%A8%99%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E4%B8%80%E8%A6%A7)">Wiki</a>を参照ください。<br/>
 ＜目標達成のためのフロー＞
 <ol>
 <li>目標を決める(<font color="Red"><b>Step1</b></font>)</li>
