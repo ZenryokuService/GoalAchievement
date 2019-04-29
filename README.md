@@ -1,7 +1,9 @@
 # GoalAchievement
+
+<h2>Project Goal achievement</h2>
+Create a test program in JS that creates a flow to achieve the goal.
+<h2>目標達成プロジェクト</h2>
 目標を達成するためのフローを作り上げる、JSでテスト用のプログラムを作成。
-<h1>Project Goal achievement</h1>
-<h1>目標達成プロジェクト</h1>
 <dl>
 <dt>English</dt>
 <dd>
