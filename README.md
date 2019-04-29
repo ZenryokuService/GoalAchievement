@@ -29,25 +29,23 @@ Within that, we will create a flow for achieving our goals.
 <dl><dt>Lv0: 最終目標</dt>
 <dd><ol>
 <li>
-<dl><dt>Lv1: 具現化項目１</dt>
-<dd> Lv2: 実行項目１ー１</dd>
-<dd> Lv2: 実行項目１ー２</dd>
-<dd> Lv2: 実行項目１ー３</dd>
+<dl><dt>Lv1: 1.具現化項目１</dt>
+<dd> Lv2: 1-1. 実行項目１ー１</dd>
+<dd> Lv2: 1-2. 実行項目１ー２</dd>
+<dd> Lv2: 1-3. 実行項目１ー３</dd>
 </dl>
 </li>
 <li>
-<dl><dt>Lv1: 実行項目２ー１</dt>
-<dd>Lv2: 実行項目</dd>
-<dd> Lv2: 実行項目２ー１</dd>
-<dd> Lv2: 実行項目２ー２</dd>
-<dd> Lv2: 実行項目２ー３</dd>
+<dl><dt>Lv1: 2. 具現化項目２</dt>
+<dd>Lv2: 2-1. 実行項目2-1</dd>
+<dd> Lv2: 2-2. 実行項目２ー2</dd>
+<dd> Lv2: 2-3. 実行項目２ー3</dd>
 </li>
 <li>
-<dl><dt>Lv1: 実行項目３ー１</dt>
-<dd>Lv2: 実行項目</dd>
-<dd> Lv2: 実行項目３ー１</dd>
-<dd> Lv2: 実行項目３ー２</dd>
-<dd> Lv2: 実行項目３ー３</dd>
+<dl><dt>Lv1: 3. 具現化項目３</dt>
+<dd>Lv2: 3-1. 実行項目３ー1</dd>
+<dd>Lv2: 3-2. 実行項目３ー2</dd>
+<dd>Lv2: 3-3. 実行項目３ー3</dd>
 </li>
 </ol></dd>
 </dd>
@@ -55,7 +53,7 @@ Within that, we will create a flow for achieving our goals.
 
 ＜サンプル＞
 <dl><dt>「じゃんけんゲーム」を作成してリリースする。</dt>
-<dd><ol>
+<dd><ul>
 <li>
 <dl><dt>じゃんけんゲームVer1.0を作成する</dt>
 <dd> 開発環境(PC)上でじゃんけんゲームを作成する</dd>
@@ -72,10 +70,17 @@ Within that, we will create a flow for achieving our goals.
 <dd>2-3. プロジェクトサイトを作成する</dd>
 <dd>2-4. Twitterへの連携機能を作成する</dd>
 </li>
-<li>Google App Storeへリリース</li>
+<li>Google app storeへリリース
+<dl><dt>Lv1: Goole app storeの規約を読む</dt>
+<dd>Lv2: 実行項目</dd>
+<dd> Lv2: 実行項目２ー１</dd>
+<dd> Lv2: 実行項目２ー２</dd>
+<dd> Lv2: 実行項目２ー３</dd>
+
+</li>
 <li>GitBookに「じゃんけんゲーム」の作成手順を記載する</li>
 <li>ゲームの作成に必要な技術を習得できるようなドキュメントを作成する</li>
 <li>じゃんけんゲームをダウンロードして、動かして、作って、オリジナルのアプリを作成するためのツール、コミニティなどを紹介する</li>
-</ol></dd>
+</ul></dd>
 </dd>
 </dl>
