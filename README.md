@@ -27,7 +27,7 @@ Within that, we will create a flow for achieving our goals.
 
 ＜目標ブレークツリーテンプレート＞
 <dl><dt>Lv0: 最終目標</dt>
-<dd><ol>
+<dd><ul>
 <li>
 <dl><dt>Lv1: 1.具現化項目１</dt>
 <dd> Lv2: 1-1. 実行項目１ー１</dd>
@@ -47,7 +47,7 @@ Within that, we will create a flow for achieving our goals.
 <dd>Lv2: 3-2. 実行項目３ー2</dd>
 <dd>Lv2: 3-3. 実行項目３ー3</dd>
 </li>
-</ol></dd>
+</ul></dd>
 </dd>
 </dl>
 
