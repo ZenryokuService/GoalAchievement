@@ -25,6 +25,34 @@ Within that, we will create a flow for achieving our goals.
 <li>並べた項目を順番に実行していく</li>
 </ol>
 
+＜目標ブレークツリーテンプレート＞
+<dl><dt>Lv0: 最終目標</dt>
+<dd><ol>
+<li>
+<dl><dt>Lv1: 具現化項目１</dt>
+<dd> Lv2: 実行項目１ー１</dd>
+<dd> Lv2: 実行項目１ー２</dd>
+<dd> Lv2: 実行項目１ー３</dd>
+</dl>
+</li>
+<li>
+<dl><dt>Lv1: 実行項目２ー１</dt>
+<dd>Lv2: 実行項目</dd>
+<dd> Lv2: 実行項目２ー１</dd>
+<dd> Lv2: 実行項目２ー２</dd>
+<dd> Lv2: 実行項目２ー３</dd>
+</li>
+<li>
+<dl><dt>Lv1: 実行項目３ー１</dt>
+<dd>Lv2: 実行項目</dd>
+<dd> Lv2: 実行項目３ー１</dd>
+<dd> Lv2: 実行項目３ー２</dd>
+<dd> Lv2: 実行項目３ー３</dd>
+</li>
+</ol></dd>
+</dd>
+</dl>
+
 ＜サンプル＞
 <dl><dt>「じゃんけんゲーム」を作成してリリースする。</dt>
 <dd><ol>
