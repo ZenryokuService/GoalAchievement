@@ -8,6 +8,7 @@
 "Goal achievement" project  is a project to create the flow to achieve the goal.<br>
 For the first time ever from the <b>"Janken Game"</b>, we will create bigger ones.
 Within that, we will create a flow for achieving our goals.<br>
+  Tree item Categories is <a href="https://github.com/ZenryokuService/GoalAchievement/wiki/Categories-of-goal-achievement-break-tree.(%E7%9B%AE%E6%A8%99%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E4%B8%80%E8%A6%A7)">wiki</a>. <br>
 ＜Flow to achieve goal＞
 <ol>
 <li>Determine your goals(<font color="Red"><b>Step1</b></font>)</li>
