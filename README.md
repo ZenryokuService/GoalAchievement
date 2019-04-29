@@ -18,8 +18,8 @@ Within that, we will create a flow for achieving our goals.
 <ol>
 <li>目標を決める(<font color="Red"><b>Step1</b></font>)</li>
 <li>目標のために必要なものを３つ挙げる(<font color="Green"><b>Step2</b></font>)</li>
-<li>列挙した必要なものに対して同様に必要なものを３つ挙げる(<font color="Blue"><b>Step3</b></font>)</li>
-<li>具体的に何をやるのか見えてきたら、それぞれにやるべき事を列挙する(<font color="red"><b>Step4</b></font>)<br/>*ここまでが「目標ブレークツリー」になり、以降はタスクツリーになる</li>
+<li>列挙した必要なものに対して同様に必要なものを３つ挙げる(<font color="Blue"><b>Step3</b></font>)<br/>*ここまでが「目標ブレークツリー」になり、以降はタスクツリーになる</li>
+<li>具体的に何をやるのか見えてきたら、それぞれにやるべき事を列挙する(<font color="red"><b>Step4</b></font>)</li>
 <lil><font color="Green"><b>Step2</b></font>で挙げた必要な事を、実行する順番に並べる</li>
 <lil><font color="Blue"><b>Step3</b></font>で挙げた必要な事を、実行する順番に並べる</li>
 <li>並べた項目を順番に実行していく</li>
