@@ -72,15 +72,8 @@ Within that, we will create a flow for achieving our goals.
 </li>
 <li>Google app storeへリリース
 <dl><dt>Lv1: Goole app storeの規約を読む</dt>
-<dd>Lv2: 実行項目</dd>
-<dd> Lv2: 実行項目２ー１</dd>
-<dd> Lv2: 実行項目２ー２</dd>
-<dd> Lv2: 実行項目２ー３</dd>
-
+<dd>Lv2: Google app storeへの申請</dd>
 </li>
-<li>GitBookに「じゃんけんゲーム」の作成手順を記載する</li>
-<li>ゲームの作成に必要な技術を習得できるようなドキュメントを作成する</li>
-<li>じゃんけんゲームをダウンロードして、動かして、作って、オリジナルのアプリを作成するためのツール、コミニティなどを紹介する</li>
 </ul></dd>
 </dd>
 </dl>
