@@ -1,3 +1,10 @@
+# About Source
+*ViewHTML*: ./cardStyleSample.html<br/>
+*JS*      : ./js/d3BreakTree.js<br/>
+
+## couation
+using d3.js like this...<br/>
+<code><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script></code>
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
