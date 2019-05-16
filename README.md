@@ -5,6 +5,18 @@
 ## couation
 using d3.js like this...<br/>
 <code><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script></code>
+# Road map
+1.create a MokuhyoBreackTree in js.
+  For achieve goal.<br/>
+  For create flow to achieve goal.<br/>
+  For I will sample to achieve the goal of releasing the "Janken game".<br/>
+
+2.Achieve the goal of releasing "Janken Games"<br/>
+  step1: create a project site.<br/>
+  step2: create a twitter api app for tweet update this project info.<br/>
+  step3: read [this document](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)<br/>
+  step4: request for free license in gluon
+
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
