@@ -68,7 +68,7 @@ Within that, we will create a flow for achieving our goals.<br>
 </dl>
 
 ＜Example＞
-<dl><dt>Lv0: Create "Janken game" and release it.</dt>
+<dl><dt>Lv0: Create ["Janken](https://github.com/ZenryokuService/JankenGame) game" and release it.</dt>
 <dd><ul>
 <li>
 <dl><dt>Lv1: Create a rockfish game Ver 1.0</dt>
@@ -137,7 +137,7 @@ Within that, we will create a flow for achieving our goals.<br>
 
 ＜サンプル＞
 [じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)
-<dl><dt>Lv0: 「じゃんけんゲーム」を作成してリリースする。</dt>
+<dl><dt>Lv0: [「じゃんけんゲーム」](https://github.com/ZenryokuService/JankenGame)を作成してリリースする。</dt>
 <dd><ul>
 <li>
 <dl><dt>Lv1: じゃんけんゲームVer1.0を作成する</dt>
