@@ -68,7 +68,7 @@ Within that, we will create a flow for achieving our goals.<br>
 </dl>
 
 ＜Example＞
-<dl><dt>Lv0: Create ["Janken](https://github.com/ZenryokuService/JankenGame) game" and release it.</dt>
+<dl><dt>Lv0: Create <a href=“https://github.com/ZenryokuService/JankenGame”>JankenGame</a> and release it.</dt>
 <dd><ul>
 <li>
 <dl><dt>Lv1: Create a rockfish game Ver 1.0</dt>
