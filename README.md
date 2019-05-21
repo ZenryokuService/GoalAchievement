@@ -141,7 +141,7 @@ Within that, we will create a flow for achieving our goals.<br>
 
 ＜サンプル＞
 [じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)
-<dl><dt>Lv0: [「じゃんけんゲーム」](https://github.com/ZenryokuService/JankenGame)を作成してリリースする。</dt>
+<dl><dt>Lv0: “じゃんけんゲーム”作成してリリースする。</dt>
 <dd><ul>
 <li>
 <dl><dt>Lv1: じゃんけんゲームVer1.0を作成する</dt>
