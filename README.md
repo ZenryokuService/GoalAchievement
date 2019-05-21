@@ -5,6 +5,9 @@
 ## couation
 using d3.js like this...<br/>
 <code><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script></code>
+＃Related repository
+1. [JankenGame](https://github.com/ZenryokuService/JankenGame)
+
 # Road map
 1.create a MokuhyoBreackTree in js.
   For achieve goal.<br/>
