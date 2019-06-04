@@ -50,19 +50,19 @@ Within that, we will create a flow for achieving our goals.<br>
 <dd><ul>
 <li>
 <dl><dt>Lv1: 1.Implementation item(ID:1)</dt>
-<dd>Lv2: 1-1. Execution item１ー１(ID:2)</dd>
-<dd>Lv2: 1-2. Execution item１ー２(ID:3)</dd>
-<dd>Lv2: 1-3. Execution item１ー３(ID:4)</dd>
+<dd>Lv2: 1-1. Execution item１ー１(ID:4)</dd>
+<dd>Lv2: 1-2. Execution item１ー２(ID:5)</dd>
+<dd>Lv2: 1-3. Execution item１ー３(ID:6)</dd>
 </dl>
 </li>
 <li>
-<dl><dt>Lv1: 2. Implementation item２(ID:5)</dt>
-<dd>Lv2: 2-1. Execution item-1(ID:6)</dd>
-<dd>Lv2: 2-2. Execution item２ー2(ID:7)</dd>
-<dd>Lv2: 2-3. Execution item２ー3(ID:8)</dd>
+<dl><dt>Lv1: 2. Implementation item２(ID:2)</dt>
+<dd>Lv2: 2-1. Execution item-1(ID:7)</dd>
+<dd>Lv2: 2-2. Execution item２ー2(ID:8)</dd>
+<dd>Lv2: 2-3. Execution item２ー3(ID:9)</dd>
 </li>
 <li>
-<dl><dt>Lv1: 3. Implementation item３(ID:9)</dt>
+<dl><dt>Lv1: 3. Implementation item３(ID:3)</dt>
 <dd>Lv2: 3-1. Execution item３ー1(ID:10)</dd>
 <dd>Lv2: 3-2. Execution item３ー2(ID:11)</dd>
 <dd>Lv2: 3-3. Execution item３ー3(ID:12)</dd>
@@ -118,19 +118,19 @@ Within that, we will create a flow for achieving our goals.<br>
 <dd><ul>
 <li>
 <dl><dt>Lv1: 1.具現化項目１(ID:1)</dt>
-<dd>Lv2: 1-1. 実行項目１ー１(ID:2)</dd>
-<dd>Lv2: 1-2. 実行項目１ー２(ID:3)</dd>
-<dd>Lv2: 1-3. 実行項目１ー３(ID:4)</dd>
+<dd>Lv2: 1-1. 実行項目１ー１(ID:4)</dd>
+<dd>Lv2: 1-2. 実行項目１ー２(ID:5)</dd>
+<dd>Lv2: 1-3. 実行項目１ー３(ID:6)</dd>
 </dl>
 </li>
 <li>
-<dl><dt>Lv1: 2. 具現化項目２(ID:5)</dt>
-<dd>Lv2: 2-1. 実行項目2-1(ID:6)</dd>
-<dd>Lv2: 2-2. 実行項目２ー2(ID:7)</dd>
-<dd>Lv2: 2-3. 実行項目２ー3(ID:8)</dd>
+<dl><dt>Lv1: 2. 具現化項目２(ID:2)</dt>
+<dd>Lv2: 2-1. 実行項目2-1(ID:7)</dd>
+<dd>Lv2: 2-2. 実行項目２ー2(ID:8)</dd>
+<dd>Lv2: 2-3. 実行項目２ー3(ID:9)</dd>
 </li>
 <li>
-<dl><dt>Lv1: 3. 具現化項目３(ID:9)</dt>
+<dl><dt>Lv1: 3. 具現化項目３(ID:3)</dt>
 <dd>Lv2: 3-1. 実行項目３ー1(ID:10)</dd>
 <dd>Lv2: 3-2. 実行項目３ー2(ID:11)</dd>
 <dd>Lv2: 3-3. 実行項目３ー3(ID:12)</dd>
