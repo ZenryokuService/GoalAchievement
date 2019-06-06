@@ -41,9 +41,9 @@ using d3.js like this...<br/>
     <td><figure><img src="./img/Lv1-5_WebPrograming.png" /><figcaption>No8:Web Programing</figcaption></figure></td>
   </tr>
   <tr>
-    <td><figure><img src="/.img/Lv1-6_園芸_農業.png" /><figcaption>No9:Horticulture / Agriculture</figcaption></figure></td>
-    <td><figure><img src="/.img/Lv1-7_車_バイク.png" /><figcaption>No10:Auto mobile</figcaption></figure></td>
-    <td><figure><img src="/.img/Lv1-8_ゲーム.png" /><figcaption>No11:Games</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-6_園芸_農業.png" /><figcaption>No9:Horticulture / Agriculture</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-7_車_バイク.png" /><figcaption>No10:Auto mobile</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-8_ゲーム.png" /><figcaption>No11:Games</figcaption></figure></td>
   </tr>
   <tr>
     <td><figure><img src="./img/Lv1-9_学問.png" /><figcaption>No12:Academic</figcaption></figure></td>
