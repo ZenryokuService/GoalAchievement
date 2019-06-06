@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>GoalAchievement</groupId>
+  <artifactId>GoalAchievement</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>目標達成プロジェクト</name>
+  <description>目標達成AP作成用プロジェクト、目標達成フロー作成のため色々なプロジェクトに連携する</description>
+  <url>https://github.com/ZenryokuService/GoalAchievement</url>
+  <issueManagement>
+  	<system>Github</system>
+  	<url>https://github.com/ZenryokuService/GoalAchievement</url>
+  </issueManagement>
+  <properties>
+   <junit.version>4.12</junit.version>
+   <nd4j.version>0.9.1</nd4j.version>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.nd4j</groupId>
+      <artifactId>nd4j-native-platform</artifactId>
+      <version>${nd4j.version}</version>
+    </dependency>
+  </dependencies>
+</project>
