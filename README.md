@@ -1,6 +1,7 @@
 # About Source
-*ViewHTML*: ./cardStyleSample.html<br/>
-*JS*      : ./js/d3BreakTree.js<br/>
+*ViewHTML*    : ./cardStyleSample.html<br/>
+*JS*          : ./js/d3BreakTree.js<br/>
+*Github page* : https://zenryokuservice.github.io/GoalAchievement/
 
 ## couation
 using d3.js like this...<br/>
