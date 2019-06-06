@@ -22,6 +22,30 @@ using d3.js like this...<br/>
   step3: read [this document](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)<br/>
   step4: request for free license in gluon
 
+## Icons for each categories
+<ol>
+  <li>
+<figure><img src="/img/Lv0-1_創造実行.png" /><figcaption>No1:Creation</figcaption></figure>
+<figure><img src="/img/Lv0-2学習習得.png" /><figcaption>No2:Learning</figcaption></figure>
+<figure><img src="/img/Lv0-3_生活習慣.png" /><figcaption>No3:Life</figcaption></figure>
+  </li>
+  <li>
+<figure><img src="/img/Lv1-1_デザイン_アート.png" /><figcaption>No4:Design</figcaption></figure>
+<figure><img src="/img/Lv1-1デザイン.png" /><figcaption>No4:Design</figcaption></figure>
+<figure><img src="/img/Lv1-2_音楽.png" /><figcaption>No5:Music</figcaption></figure>
+<figure><img src="/img/Lv1-3_ファッション.png" /><figcaption>No6:Fashion</figcaption></figure>
+<figure><img src="/img/Lv1-4_Sports.png" /><figcaption>No7:Sports</figcaption></figure>
+<figure><img src="/img/Lv1-5_WebPrograming.png" /><figcaption>No8:Web Programing</figcaption></figure>
+<figure><img src="/img/Lv1-6_園芸_農業.png" /><figcaption>No9:Horticulture / Agriculture</figcaption></figure>
+<figure><img src="/img/Lv1-7_車_バイク.png" /><figcaption>No10:Auto mobile</figcaption></figure>
+<figure><img src="/img/Lv1-8_ゲーム.png" /><figcaption>No11:Games</figcaption></figure>
+<figure><img src="/img/Lv1-9_学問.png" /><figcaption>No12:Academic</figcaption></figure>
+<figure><img src="/img/Lv1-10_占い_スピリチュアル.png" />No13:Spiritual<figcaption>Creation</figcaption></figure>
+<figure><img src="/img/Lv1-11_アニメ_漫画.png" /><figcaption>No14:Anime / Manga</figcaption></figure>
+<figure><img src="/img/Lv1-12_グルメ_料理.png" /><figcaption>No15:Grumet / Cooking</figcaption></figure>
+<figure><img src="/img/Lv1-13_ホビー.png" /><figcaption>No16:Hobbies</figcaption></figure>
+。。。。
+  </li>
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
