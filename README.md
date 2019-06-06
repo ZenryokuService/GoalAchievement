@@ -7,7 +7,8 @@ using d3.js like this...<br/>
 <code><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script></code><br>
 
 # Related repository
-1. [JankenGame](https://github.com/ZenryokuService/JankenGame)
+1. [JankenGame](https://github.com/ZenryokuService/
+2. [MultiTaskManger](https://github.com/ZenryokuService/MultiTaskManager)
 
 # Road map
 1.create a MokuhyoBreackTree in js.
