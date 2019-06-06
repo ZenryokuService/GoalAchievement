@@ -23,13 +23,9 @@ using d3.js like this...<br/>
   step4: request for free license in gluon
 
 ## Icons for each categories
-<ol>
-  <li>
-<figure><img src="/img/Lv0-1_創造実行.png" /><figcaption>No1:Creation</figcaption></figure>
+<figure><img src="./img/Lv0-1_創造実行.png" /><figcaption>No1:Creation</figcaption></figure>
 <figure><img src="/img/Lv0-2学習習得.png" /><figcaption>No2:Learning</figcaption></figure>
-<figure><img src="/img/Lv0-3_生活習慣.png" /><figcaption>No3:Life</figcaption></figure>
-  </li>
-  <li>
+<figure><img src="/img/Lv0-3_生活習慣.png" /><figcaption>No3:Life</figcaption></figure><br/>
 <figure><img src="/img/Lv1-1_デザイン_アート.png" /><figcaption>No4:Design</figcaption></figure>
 <figure><img src="/img/Lv1-1デザイン.png" /><figcaption>No4:Design</figcaption></figure>
 <figure><img src="/img/Lv1-2_音楽.png" /><figcaption>No5:Music</figcaption></figure>
@@ -45,7 +41,6 @@ using d3.js like this...<br/>
 <figure><img src="/img/Lv1-12_グルメ_料理.png" /><figcaption>No15:Grumet / Cooking</figcaption></figure>
 <figure><img src="/img/Lv1-13_ホビー.png" /><figcaption>No16:Hobbies</figcaption></figure>
 。。。。
-  </li>
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
