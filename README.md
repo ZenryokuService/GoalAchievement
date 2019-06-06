@@ -22,6 +22,9 @@ using d3.js like this...<br/>
   step3: read [this document](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)<br/>
   step4: request for free license in gluon
 
+## Icons for each categories
+<img src="/img/Lv0-1_創造実行.png" /> Creation
+
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
