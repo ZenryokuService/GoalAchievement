@@ -31,7 +31,7 @@ using d3.js like this...<br/>
   </tr>
   <tr>
     <td><figure><img src="/img/Lv1-1_デザイン_アート.png" /><figcaption>No4:Design</figcaption></figure></td>
-    <td><figure><img src="/img/Lv1-1デザイン.png" /><figcaption>No4:Design</figcaption></figure></td>
+    <td><figure><img src="/img/Lv1-1デザイン.png" /><figcaption>No4_1:Design</figcaption></figure></td>
     <td><figure><img src="/img/Lv1-2_音楽.png" /><figcaption>No5:Music</figcaption></figure></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ using d3.js like this...<br/>
     <td><figure><img src="/img/Lv1-13_ホビー.png" /><figcaption>No16:Hobbies</figcaption></figure></td>
     <td>。。。。</td>
   </tr>
-
+</table>
 # GoalAchievement
 
 <h2>Project Goal achievement</h2>
