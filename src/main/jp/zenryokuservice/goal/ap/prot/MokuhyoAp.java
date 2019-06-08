@@ -3,6 +3,7 @@ package jp.zenryokuservice.goal.ap.prot;
 import javafx.application.Application;
 import javafx.scene.control.Label;
 import javafx.stage.Stage;
+import jp.zenryokuservice.goal.ap.prot.label.MkhObjLabel;
 
 /**
  * 目標達成アプリのプロトタイプを作成する、以下の機能のみ実装。
@@ -17,7 +18,7 @@ public class MokuhyoAp extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		Label label = new Label();
+		MkhObjLabel label = new MkhObjLabel("目標");
 		label.setText("サンプル");
 	}
 
