@@ -4,7 +4,7 @@ import javafx.scene.control.Label;
 
 /**
  * 目標オブジェクト用のラベル。
- * 画面へツリー状に表示する。
+ * 画面へツリー状に表示するラベルコンポーネント。
  * @author takunoji
  * 2019/06/08
  */
