@@ -8,5 +8,7 @@ import javafx.scene.control.Label;
  * 2019/06/08
  */
 public class MkhObjLabel extends Label {
-
+	public MkhObjLabel() {
+		
+	}
 }
