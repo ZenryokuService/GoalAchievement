@@ -12,5 +12,6 @@ import javafx.scene.control.Label;
 public class MkhObjLabel extends Label {
 	public MkhObjLabel(String title) {
 		setText(title);
+		// コメント
 	}
 }
