@@ -2,6 +2,7 @@ package jp.zenryokuservice.goal.ap.prot;
 
 import javafx.application.Application;
 import javafx.scene.control.Label;
+import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 import jp.zenryokuservice.goal.ap.prot.label.MkhObjLabel;
 
@@ -14,21 +15,8 @@ import jp.zenryokuservice.goal.ap.prot.label.MkhObjLabel;
  * @author takunoji
  * 2019/06/05
  */
-public class MokuhyoAp extends Application {
+public class MokuhyoAp extends BorderPane {
 
-	@Override
-	public void start(Stage primaryStage) throws Exception {
-		MkhObjLabel label = new MkhObjLabel("目標");
-		label.setText("サンプル");
-	}
-
-	/**
-	 * 目標達成APプロトタイプを起動する
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		launch();
-	}
 }
 
 
