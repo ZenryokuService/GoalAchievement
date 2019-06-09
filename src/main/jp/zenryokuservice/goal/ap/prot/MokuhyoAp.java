@@ -19,6 +19,7 @@ public class MokuhyoAp extends BorderPane {
 
 	/**
 	 * コンストラクタ。
+	 * 画面の描画を行う
 	 */
 	public MokuhyoAp() {
 	}
