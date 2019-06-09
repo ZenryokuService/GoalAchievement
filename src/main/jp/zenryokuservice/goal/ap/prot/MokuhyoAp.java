@@ -11,12 +11,13 @@ import jp.zenryokuservice.goal.ap.prot.label.MkhObjLabel;
  * 1. 目標ブレーク機能
  * 2. タスク一覧機能
  * 3. 進捗率集計機能
- * 
+ * 本チャンではViewクラスを継承するように修正する。
  * @author takunoji
  * 2019/06/05
  */
 public class MokuhyoAp extends BorderPane {
 
+	
 }
 
 
