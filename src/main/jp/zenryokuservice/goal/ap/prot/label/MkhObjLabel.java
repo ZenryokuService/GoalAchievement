@@ -12,7 +12,7 @@ import javafx.scene.control.Label;
  */
 public class MkhObjLabel extends Label {
 	/**
-	 * 
+	 * コンストラクタ
 	 * @param title
 	 */
 	public MkhObjLabel(String title) {
