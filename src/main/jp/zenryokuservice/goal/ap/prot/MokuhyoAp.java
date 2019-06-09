@@ -17,6 +17,9 @@ import jp.zenryokuservice.goal.ap.prot.label.MkhObjLabel;
  */
 public class MokuhyoAp extends BorderPane {
 
+	public MokuhyoAp() {
+		
+	}
 	
 }
 
