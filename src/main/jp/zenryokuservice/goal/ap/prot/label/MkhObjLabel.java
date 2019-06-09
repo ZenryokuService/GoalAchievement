@@ -12,7 +12,8 @@ import javafx.scene.control.Label;
  */
 public class MkhObjLabel extends Label {
 	/**
-	 * コンストラクタ画面上に表示する目標オブジェクト
+	 * コンストラクタ画面上に表示する目標オブジェクト。
+	 * このオブジェクトのリレーションを線で表現する
 	 * @param title
 	 */
 	public MkhObjLabel(String title) {
