@@ -1,6 +1,8 @@
 # About Source
 *ViewHTML*    : ./cardStyleSample.html<br/>
 *JS*          : ./js/d3BreakTree.js<br/>
+*baseImages*  : ./img
+*sampleImages*: ./dst
 *Github page* : https://zenryokuservice.github.io/GoalAchievement/
 
 ## couation
@@ -149,7 +151,39 @@ Within that, we will create a flow for achieving our goals.<br>
 <lil><font color="Blue"><b>Step3</b></font>で挙げた必要な事を、実行する順番に並べる</li>
 <li>並べた項目を順番に実行していく</li>
 </ol>
-
+## 各目標のカテゴリアイコン一覧
+<table>
+  <tr>
+    <td><figure><img src="./img/Lv0-1_創造実行.png" /><figcaption>No1:創造</figcaption></figure></td>
+    <td><figure><img src="./img/Lv0-2学習習得.png" /><figcaption>No2:学習・習得</figcaption></figure></td>
+    <td><figure><img src="./img/Lv0-3_生活習慣.png" /><figcaption>No3:生活習慣</figcaption></figure></td>
+  </tr>
+  <tr>
+    <td><figure><img src="./img/Lv1-1_デザイン_アート.png" /><figcaption>No4:デザイン・アートのサンプルアイコン</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-1デザイン.png" /><figcaption>No4_1:Dデザイン</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-2_音楽.png" /><figcaption>No5:音楽</figcaption></figure></td>
+  </tr>
+  <tr>
+    <td><figure><img src="./img/Lv1-3_ファッション.png" /><figcaption>No6:ファッション</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-4_Sports.png" /><figcaption>No7:スポーツ</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-5_WebPrograming.png" /><figcaption>No8:Webプログラミング</figcaption></figure></td>
+  </tr>
+  <tr>
+    <td><figure><img src="./img/Lv1-6_園芸_農業.png" /><figcaption>No9:園芸 / 農業</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-7_車_バイク.png" /><figcaption>No10:自動車・バイクなど</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-8_ゲーム.png" /><figcaption>No11:ゲーム</figcaption></figure></td>
+  </tr>
+  <tr>
+    <td><figure><img src="./img/Lv1-9_学問.png" /><figcaption>No12:学問</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-10_占い_スピリチュアル.png" />No13:占い・スピリチュアル<figcaption>Creation</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-11_アニメ_漫画.png" /><figcaption>No14:アニメ・漫画</figcaption></figure></td>
+  </tr>
+  <tr>
+    <td><figure><img src="./img/Lv1-12_グルメ_料理.png" /><figcaption>No15:グルメ / 料理</figcaption></figure></td>
+    <td><figure><img src="./img/Lv1-13_ホビー.png" /><figcaption>No16:ホビー(その他)</figcaption></figure></td>
+    <td>。。。。</td>
+  </tr>
+</table>
 ＜目標ブレークツリーテンプレート＞
 <dl><dt>Lv0: 最終目標(ID:0)</dt>
 <dd><ul>
