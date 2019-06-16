@@ -1,13 +1,16 @@
 # About Source
 *ViewHTML*    : ./cardStyleSample.html<br/>
 *JS*          : ./js/d3BreakTree.js<br/>
-*baseImages*  : ./img
-*sampleImages*: ./dst
+*baseImages*  : ./img<br/>
+*sampleImages*: ./dst<br/>
 *Github page* : https://zenryokuservice.github.io/GoalAchievement/
 
 ## couation
 using d3.js like this...<br/>
 <code><script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script></code><br>
+
+## For create project site
+*Using witterAPI*  : [how to use twitter api(in php)](https://twitteroauth.com/)<br/>
 
 # Related repository
 1. [JankenGame](https://github.com/ZenryokuService/JankenGame)
