@@ -87,8 +87,8 @@ Within that, we will create a flow for achieving our goals.<br>
     <lil><font color="Blue"><b>Step3</b></font>same...</li>
     <li>Execute the arranged items in order</li>
   </ol>
-  
-＜Template＞
+  </dd>
+  <dd>＜Template＞
   <dl><dt>Lv0: Goal(ID:0)</dt>
   <dd>
     <ul>
@@ -119,7 +119,8 @@ Within that, we will create a flow for achieving our goals.<br>
     </ul>
   </dd>
 </dl>
-
+</dd>
+<dd>
 ＜Example＞
 <dl><dt>Lv0: Create <a href=“https://github.com/ZenryokuService/JankenGame”>JankenGame</a> and release it.</dt>
   <dd>
@@ -152,6 +153,8 @@ Within that, we will create a flow for achieving our goals.<br>
   </dd>
 </dl>
 <dl>
+</dd>
+<dd>
 <dt>日本語</dt>
 <dd>
   目標達成プロジェクトは目標を達成するためのフローを作り上げるためのプロジェクトです。<br>
@@ -201,8 +204,7 @@ Within that, we will create a flow for achieving our goals.<br>
     </tr>
   </table>
 </dd>
-＜目標ブレークツリーテンプレート＞
-<dd>
+<dd>＜目標ブレークツリーテンプレート＞
 <dl><dt>Lv0: 最終目標(ID:0)</dt>
 <dd>
   <ul>
@@ -231,7 +233,8 @@ Within that, we will create a flow for achieving our goals.<br>
   </ul>
 </dd>
 </dl>
-
+</dd>
+<dd>
 ＜サンプル＞
 [じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)
 <dl>
@@ -263,3 +266,6 @@ Within that, we will create a flow for achieving our goals.<br>
     </ul>
   </dd>
 </dl>
+</dd>
+</dl>
+
