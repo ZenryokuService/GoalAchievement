@@ -83,12 +83,12 @@ Within that, we will create a flow for achieving our goals.<br>
     <li>List three things you need for your goal(<font color="Green"><b>Step2</b></font>)</li>
     <li>List three things as necessary for the things listed(<font color="Blue"><b>Step3</b></font>)<br/>*Up to here is the "target break tree", and from here on it will be the task tree</li>
     <li>When you see what you do specifically, list the things you need to do for each(<font color="red"><b>Step4</b></font>)</li>
-    <lil><font color="Green"><b>Step2</b></font>Arrange the necessary things mentioned in the order of execution</li>
-    <lil><font color="Blue"><b>Step3</b></font>same...</li>
+    <li><font color="Green"><b>Step2</b></font>Arrange the necessary things mentioned in the order of execution</li>
+    <li><font color="Blue"><b>Step3</b></font>same...</li>
     <li>Execute the arranged items in order</li>
   </ol>
   </dd>
-  <dd>＜Template＞
+  <dd><h3>＜Template＞</h3>
   <dl><dt>Lv0: Goal(ID:0)</dt>
   <dd>
     <ul>
@@ -121,7 +121,7 @@ Within that, we will create a flow for achieving our goals.<br>
 </dl>
 </dd>
 <dd>
-＜Example＞
+  <h3>＜Example＞</h3>
 <dl><dt>Lv0: Create <a href=“https://github.com/ZenryokuService/JankenGame”>JankenGame</a> and release it.</dt>
   <dd>
     <ul>
@@ -153,24 +153,24 @@ Within that, we will create a flow for achieving our goals.<br>
   </dd>
 </dl>
 <dl>
-</dd>
-<dd>
-<dt>日本語</dt>
-<dd>
-  目標達成プロジェクトは目標を達成するためのフローを作り上げるためのプロジェクトです。<br>
-  じゃんけんゲームから初めてだんだんと大きなものを作成していくことを目的としています。<br>
-  ちなみに、目標カテゴリに関しては<a href="https://github.com/ZenryokuService/GoalAchievement/wiki/Categories-of-goal-achievement-break-tree.(%E7%9B%AE%E6%A8%99%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E4%B8%80%E8%A6%A7)">Wiki</a>を参照ください。<br/>
-  ＜目標達成のためのフロー＞
-  <ol>
-    <li>目標を決める(<font color="Red"><b>Step1</b></font>)</li>
-    <li>目標のために必要なものを３つ挙げる(<font color="Green"><b>Step2</b></font>)</li>
-    <li>列挙した必要なものに対して同様に必要なものを３つ挙げる(<font color="Blue"><b>Step3</b></font>)<br/>*ここまでが「目標ブレークツリー」になり、以降はタスクツリーになる</li>
-    <li>具体的に何をやるのか見えてきたら、それぞれにやるべき事を列挙する(<font color="red"><b>Step4</b></font>)</li>
-    <lil><font color="Green"><b>Step2</b></font>で挙げた必要な事を、実行する順番に並べる</li>
-    <lil><font color="Blue"><b>Step3</b></font>で挙げた必要な事を、実行する順番に並べる</li>
-    <li>並べた項目を順番に実行していく</li>
-  </ol>
-## 各目標のカテゴリアイコン一覧
+  <dt>日本語</dt>
+  <dd>
+    目標達成プロジェクトは目標を達成するためのフローを作り上げるためのプロジェクトです。<br>
+    じゃんけんゲームから初めてだんだんと大きなものを作成していくことを目的としています。<br>
+    ちなみに、目標カテゴリに関しては<a href="https://github.com/ZenryokuService/GoalAchievement/wiki/Categories-of-goal-achievement-break-tree.(%E7%9B%AE%E6%A8%99%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E4%B8%80%E8%A6%A7)">Wiki</a>を参照ください。<br/>
+    <h3>＜目標達成のためのフロー＞</h3>
+    <ol>
+      <li>目標を決める(<font color="Red"><b>Step1</b></font>)</li>
+      <li>目標のために必要なものを３つ挙げる(<font color="Green"><b>Step2</b></font>)</li>
+      <li>列挙した必要なものに対して同様に必要なものを３つ挙げる(<font color="Blue"><b>Step3</b></font>)<br/>*ここまでが「目標ブレークツリー」になり、以降はタスクツリーになる</li>
+      <li>具体的に何をやるのか見えてきたら、それぞれにやるべき事を列挙する(<font color="red"><b>Step4</b></font>)</li>
+      <li><font color="Green"><b>Step2</b></font>で挙げた必要な事を、実行する順番に並べる</li>
+      <li><font color="Blue"><b>Step3</b></font>で挙げた必要な事を、実行する順番に並べる</li>
+      <li>並べた項目を順番に実行していく</li>
+    </ol>
+  </dd>
+  <dd>
+    <h3>各目標のカテゴリアイコン一覧</h3>
   <table>
     <tr>
       <td><figure><img src="./img/Lv0-1_創造実行.png" /><figcaption>No1:創造</figcaption></figure></td>
@@ -204,7 +204,7 @@ Within that, we will create a flow for achieving our goals.<br>
     </tr>
   </table>
 </dd>
-<dd>＜目標ブレークツリーテンプレート＞
+  <dd><h3>＜目標ブレークツリーテンプレート＞</h3>
 <dl><dt>Lv0: 最終目標(ID:0)</dt>
 <dd>
   <ul>
@@ -213,7 +213,7 @@ Within that, we will create a flow for achieving our goals.<br>
         <dt>Lv1: 1.具現化項目１(ID:1)</dt>
         <dd>Lv2: 1-1. 実行項目１ー１(ID:4)</dd>
         <dd>Lv2: 1-2. 実行項目１ー２(ID:5)</dd>
-        <dd>Lv2: 1-3. 実行項目１ー３(ID:6)</dd></dl>
+        <dd>Lv2: 1-3. 実行項目１ー３(ID:6)</dd>
       </dl>
     </li>
     <li>
@@ -221,22 +221,22 @@ Within that, we will create a flow for achieving our goals.<br>
         <dt>Lv1: 2. 具現化項目２(ID:2)</dt>
         <dd>Lv2: 2-1. 実行項目2-1(ID:7)</dd>
         <dd>Lv2: 2-2. 実行項目２ー2(ID:8)</dd>
-        <dd>Lv2: 2-3. 実行項目２ー3(ID:9)</dd></dl>
+        <dd>Lv2: 2-3. 実行項目２ー3(ID:9)</dd>
+      </dl>
     </li>
     <li>
       <dl>
         <dt>Lv1: 3. 具現化項目３(ID:3)</dt>
         <dd>Lv2: 3-1. 実行項目３ー1(ID:10)</dd>
         <dd>Lv2: 3-2. 実行項目３ー2(ID:11)</dd>
-        <dd>Lv2: 3-3. 実行項目３ー3(ID:12)</dd></dl>
+        <dd>Lv2: 3-3. 実行項目３ー3(ID:12)</dd>
+      </dl>
     </li>
   </ul>
 </dd>
-</dl>
-</dd>
 <dd>
-＜サンプル＞
-[じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)
+  ＜サンプル＞
+  <h3>[じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)</h3>
 <dl>
   <dt>Lv0: “じゃんけんゲーム”作成してリリースする。</dt>
   <dd>
@@ -254,14 +254,16 @@ Within that, we will create a flow for achieving our goals.<br>
           <dt>Lv1: GLUONのフリーライセンスを取得する</dt>
           <dd>Lv2: <a href="https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/">2-1. GLUONのライセンスの説明サイト</a>を参照する</dd>
           <dd>Lv2: プロジェクトサイトを作成する</dd>
-          <dd>Lv2: SNSとの連携機能を実装する</dd></dl>
+          <dd>Lv2: SNSとの連携機能を実装する</dd>
+        </dl>
       </li>
       <li>
         <dl>
           <dt>Lv1: Goole app storeへAppの申請をする</dt>
           <dd>Lv2: Google app storeの規約を読む</dd>
           <dd>Lv2: 規約を考慮に入れてアプリの総合テストを行う</dd>
-          <dd>Lv2: なし</dd></dl>
+          <dd>Lv2: なし</dd>
+        </dl>
       </li>
     </ul>
   </dd>
