@@ -1,6 +1,7 @@
 package jp.zenryokuservice.goal.ap.prot.label;
 
 import javafx.scene.control.Label;
+import javafx.scene.text.Font;
 
 /**
  * 目標オブジェクト用のラベル。
@@ -17,6 +18,10 @@ public class MkhObjLabel extends Label {
 	 * @param title
 	 */
 	public MkhObjLabel(String title) {
+		setFont(new Font("Aeial", 30));
+		this.setPrefHeight(20.0);
+		this.setPrefWidth(20.0);
 		setText(title);
+		//setWidth(30.0);
 	}
 }
