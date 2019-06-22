@@ -3,7 +3,7 @@
 *JS*          : ./js/d3BreakTree.js<br/>
 *baseImages*  : ./img<br/>
 *sampleImages*: ./dst<br/>
-*Github page* : https://zenryokuservice.github.io/GoalAchievement/
+*Github page* : https://zenryokuservice.com/mokuhyoAP.php
 
 ## couation
 <a href="https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html">Mokuhyo Break Tree sample</a>
@@ -20,16 +20,16 @@ using d3.js like this...<br/>
 4. [RentalServerCustom](https://github.com/ZenryokuService/RentalServerCustom)
 
 # Road map
-1.create a MokuhyoBreackTree in js.
-  For achieve goal.<br/>
-  For create flow to achieve goal.<br/>
-  For I will sample to achieve the goal of releasing the "Janken game".<br/>
+1.create a [MokuhyoBreackTree](https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html) in js.
+  For achieve goal([how to think... in japanese ](https://zenryokuservice.com/wp/2019/04/26/%E5%A4%A2%E3%82%92%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B%E2%91%A0-%E7%9B%AE%E6%A8%99%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%80%9C%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93%E3%82%B2%E3%83%BC%E3%83%A0/)).<br/>
+  For create flow to achieve goal.(arrange in oder your [MokuhyoBreackTree](https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html))<br/>
+  For I will sample to achieve the goal of releasing the "[Janken game](https://github.com/ZenryokuService/JankenGame)".<br/>
 
 2.Achieve the goal of releasing "Janken Games"<br/>
-  step1: create a project site.<br/>
-  step2: create a twitter api app for tweet update this project info.<br/>
+  <img src="./img/OK.png"/>step1: create a [project site](https://zenryokuservice.com/mokuhyoAP.php).<br/>
+  <img src="./img/OK.png"/>step2: create a [twitter api app for tweet update this project info](https://twitteroauth.com/).<br/>
   step3: read [this document](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)<br/>
-  step4: request for free license in gluon
+  step4: request for [free license in gluon](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)
 
 ## Icons for each categories
 <table>
@@ -236,7 +236,7 @@ Within that, we will create a flow for achieving our goals.<br>
 </dd>
 <dd>
   ＜サンプル＞
-  <h3>[じゃんけんゲーム](https://github.com/ZenryokuService/JankenGame)</h3>
+  <h3><a href="https://github.com/ZenryokuService/JankenGame">じゃんけんゲーム</a></h3>
 <dl>
   <dt>Lv0: “じゃんけんゲーム”作成してリリースする。</dt>
   <dd>
