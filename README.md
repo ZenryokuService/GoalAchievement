@@ -3,7 +3,8 @@
 *JS*          : ./js/d3BreakTree.js<br/>
 *baseImages*  : ./img<br/>
 *sampleImages*: ./dst<br/>
-*Github page* : https://zenryokuservice.com/mokuhyoAP.php
+*Github page* : https://zenryokuservice.github.io/GoalAchievement/<br/>
+*Tweet & Github page* : https://zenryokuservice.com/mokuhyoAP.php<br/>
 
 ## couation
 <a href="https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html">Mokuhyo Break Tree sample</a>
