@@ -22,17 +22,22 @@ using d3.js like this...<br/>
 5. [LiveHouseMap](https://github.com/ZenryokuService/LiveHouseMap)
 
 # Road map
-1.create a [MokuhyoBreackTree](https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html) in js.
+1.　create a [MokuhyoBreackTree](https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html) in js.
   For achieve goal([how to think... in japanese ](https://zenryokuservice.com/wp/2019/04/26/%E5%A4%A2%E3%82%92%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B%E2%91%A0-%E7%9B%AE%E6%A8%99%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%80%9C%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93%E3%82%B2%E3%83%BC%E3%83%A0/)).<br/>
   For create flow to achieve goal.(arrange in oder your [MokuhyoBreackTree](https://zenryokuservice.com/project/mokuhyo/cardStyleSample_d3.html))<br/>
   For I will sample to achieve the goal of releasing the "[Janken game](https://github.com/ZenryokuService/JankenGame)".<br/>
 
-2.Achieve the goal of releasing "Janken Games"<br/>
+2.　Achieve the goal of releasing "Janken Games"<br/>
   <img src="./img/OK.png"/>step1: create a [project site](https://zenryokuservice.com/mokuhyoAP.php).<br/>
   <img src="./img/OK.png"/>step2: create a [twitter api app for tweet update this project info](https://twitteroauth.com/).<br/>
   step3: read [this document](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)<br/>
   step4: request for [free license in gluon](https://gluonhq.com/programs/free-gluon-licenses/open-source-license-request/)
-
+3. Create protptype for android app and test thw logic to achieve your goal.
+ - Step1: Goal determination.
+ 
+ Under construction ...
+ 
+ 
 ## Icons for each categories
 <table>
   <tr>
